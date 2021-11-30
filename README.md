@@ -10,7 +10,7 @@
   
 </em></h4><hr>
 
-[`Download and Play`](/Final-Game-Code.exe?raw=true)<br>
+[`Download and Play ↓`](/Final-Game-Code.exe?raw=true)<br>
 [`Go to Source Code →`](Final-Game-Code.cpp)
 
 <hr>
